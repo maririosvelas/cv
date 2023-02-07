@@ -1,0 +1,18 @@
+h1{
+color:#ffb3b3;font-size:50px;font-family:monospace;
+}
+h2{
+ color:#8083B3;font-size:35px;font-family:monospace;
+}
+p{
+color:#48392A;font-size:25px;font-family:sans-serif;
+}
+body{
+ background-color:#FFF5EB;
+}
+hr{
+ border-color: grey;
+ border-width: 5px;
+ border-style: dotted none none;
+ width: 5%
+}   
